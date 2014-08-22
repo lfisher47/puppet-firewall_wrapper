@@ -1,4 +1,4 @@
-class firewall_wrapper i(
+class firewall_wrapper (
   $purge = true,
   $ports = {}
 ){
